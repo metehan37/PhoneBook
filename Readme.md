@@ -1,4 +1,4 @@
-# Phomne Book project
+# Phone Book project
 this project is builded with Patika C# course [Patika](https://www.patika.dev)
 
 ## Installation
